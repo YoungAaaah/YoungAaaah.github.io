@@ -8,6 +8,7 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
