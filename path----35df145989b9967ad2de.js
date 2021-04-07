@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{98:function(t,e){t.exports={data:{site:{siteMetadata:{title:"황영아의 포트폴리오",description:"Full stack product enginner",url:"https://github.com/YoungAaaah",keywords:"full stack, product enginner, portfolio, personal website"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----35df145989b9967ad2de.js.map
